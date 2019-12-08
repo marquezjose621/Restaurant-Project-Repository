@@ -1,2 +1,1 @@
-# Restaurant-Project-Repository
-Restaurant (Sushi Bar) Webpage
+# Restaurant Project Repository
