@@ -1,0 +1,66 @@
+/*
+
+	Creator: Jose Marquez
+	Date created: November 28th 2019
+	Date last modified: December 3rd 2019
+*/
+header {
+	font-family: 'Kaushan Script', cursive;
+	text-shadow: 5px 5px 10px black;
+}
+
+.body {
+	background-color: Linen;
+}
+
+.jumbotron {
+	background-color:firebrick !important; 
+	border-style:solid;
+}
+				
+nav {
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+nav .btn {
+	background-color: firebrick;
+	color: #fef9ff;
+}
+			
+nav .btn {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
+li {
+	float: left;
+}
+				
+li a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+				
+li a:hover {
+	background-color: #111;
+}
+				
+.active {
+	background-color: red;
+}
+
+footer {
+	background-color: firebrick;
+	color: black;
+	border-style:solid;
+}
